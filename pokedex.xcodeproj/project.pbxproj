@@ -12,6 +12,7 @@
 		F72A8FF51EAAC44300D713CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F72A8FF31EAAC44300D713CC /* Main.storyboard */; };
 		F72A8FF71EAAC44300D713CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F72A8FF61EAAC44300D713CC /* Assets.xcassets */; };
 		F72A8FFA1EAAC44300D713CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F72A8FF81EAAC44300D713CC /* LaunchScreen.storyboard */; };
+		F738AEF41EAC2771005DBA84 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = F738AEF31EAC2771005DBA84 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F72A8FF61EAAC44300D713CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F72A8FF91EAAC44300D713CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F72A8FFB1EAAC44300D713CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F738AEF31EAC2771005DBA84 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				F72A8FF11EAAC44300D713CC /* ViewController.swift */,
 				F72A8FF31EAAC44300D713CC /* Main.storyboard */,
 				F72A8FF61EAAC44300D713CC /* Assets.xcassets */,
+				F738AEF31EAC2771005DBA84 /* pokemon.csv */,
 				F72A8FF81EAAC44300D713CC /* LaunchScreen.storyboard */,
 				F72A8FFB1EAAC44300D713CC /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				F72A8FFA1EAAC44300D713CC /* LaunchScreen.storyboard in Resources */,
 				F72A8FF71EAAC44300D713CC /* Assets.xcassets in Resources */,
+				F738AEF41EAC2771005DBA84 /* pokemon.csv in Resources */,
 				F72A8FF51EAAC44300D713CC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -304,6 +308,7 @@
 				F72A90001EAAC44300D713CC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
